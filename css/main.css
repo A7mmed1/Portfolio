@@ -17,6 +17,12 @@
     height: 100%;
     background: url("../images/loader.gif") center center no-repeat !important; }
 
+
+.navbar {
+
+background-color: #040707!important;
+}
+
 .navbar-dark .navbar-nav .nav-link:hover {
   color: #42a7f5; }
 
@@ -101,6 +107,9 @@ p.sub {
     display: inline;
     padding: 8px; }
 
+@media only screen and (max-width: 360px) {
+  .drag {
+    font-size: 6px; } }
 .skill {
   text-align: center;
   margin-left: 10px; }
@@ -178,7 +187,7 @@ p.sub {
           padding: 0;
           font-family: 'The Historia Demo' , sans-serif; }
         .prime .head .card .face2 .content .te {
-          font-family: "Comic Sans MS", cursive, sans-serif;
+          font-family: "The Historia Demo", sans-serif;
           font-weight: bold;
           margin-top: 73px; }
         .prime .head .card .face2 .content a {
@@ -596,6 +605,11 @@ footer {
     color: #BE2525; }
   footer:hover {
     text-decoration: none; }
+  footer img {
+    vertical-align: middle;
+    border-style: none;
+    position: relative;
+    top: -6px; }
 
 .social-list li {
   transition: 0.3s ease;

@@ -166,6 +166,11 @@ p.sub{
     }
 
 }
+@media only screen and (max-width: 360px){
+    .drag{
+        font-size: 6px;
+    }
+}
 .skill{
     text-align: center;
     margin-left: 10px;
@@ -316,7 +321,7 @@ p.sub{
                         font-family: 'The Historia Demo' , sans-serif;
                     }
                     .te{
-                        font-family: "Comic Sans MS", cursive, sans-serif;
+                        font-family:'The Historia Demo' , sans-serif ;
 
                         font-weight: bold;
 
@@ -939,6 +944,12 @@ footer{
     &:hover{
         text-decoration: none;
     }
+    img {
+    vertical-align: middle;
+    border-style: none;
+    position: relative;
+    top: -6px;
+}
 }
 .social-list li {
     transition: 0.3s ease;

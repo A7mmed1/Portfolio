@@ -3,15 +3,15 @@
 <html lang="en" dir="ltr">
     <head>
         <meta charset="utf-8">
-        <meta name="description" content="Protofilio">
-        <meta name="keywords" content="Web developer Protofilio">
+        <meta name="description" content="looking for a Web Developer to build your website ? call me to get a free quote, Ahmmed Mohammed a Full Stack Web Developer in Calgary 2019">
+        <meta name="keywords" content="HTML,CSS,JavaScript,PHP and much more , Check My Portfolio ">
         <meta name="author" content="Ahmmed">
         <meta name="Copyright" content="Copyright Ahmmed Mohammed 2019.">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="icon" href="images/favicon.ico" type="image/png" sizes="64x64">
+        <link rel="icon" href="images/lo1.ico" type="image/png" sizes="128x128">
 
-        <title>Ahmmed Mohammed - Web Developer | Full Stack</title>
+        <title>Ahmmed Mohammed - Web Developer | Full Stack | Calgary 2019</title>
         <!-- Fonts -->
         <script src="https://kit.fontawesome.com/258c9e9fd8.js"></script>
         <!-- Styles -->
@@ -46,7 +46,7 @@
         <!-- start NavBar -->
         <nav class="navbar navbar-expand-lg navbar  sticky-top navbar navbar-dark bg-dark navbar-light bg-light">
             <div class="container">
-                        <a class="navbar-brand" href="index.php"> <img src="images/favicon.ico" alt=""> </a>
+                        <a class="navbar-brand" href="index.php"> <img src="images/lo1.png" alt="" width="90" height="70"> </a>
                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"></span>
                     </button>
@@ -86,7 +86,7 @@
 
                         </div>
                         <div class="col-md-7 text p-4">
-                            <h4 class="btn btn-info call">Summary </h4>
+                            <h4 class="call">Summary </h4>
                             <p class="write"></p>
                             <button class="btn btn-light mt-2 " type="button" name="button"><i class="fas fa-file-pdf" style="color: #343a40d6"></i><a href="images/Ahmmed.pdf"             target="_blank" style="text-decoration:none; color: #343a40d6">View Resume </a> </button>
                         </div>
@@ -141,8 +141,8 @@
                                 <span class="percent">100</span>
                                 <canvas width="152" height="152"></canvas>
                             </span>
-                            <h4>Css<i class="fab fa-css3-alt p-2"></i></h4>
-                            <p> it Gives the beuty and magic for the layout </p>
+                            <h4>CSS<i class="fab fa-css3-alt p-2"></i></h4>
+                            <p> It gives the beuty and magic for the layout </p>
                         </div>
                         <div class="skill">
                             <span class="chart" data-percent="95">
@@ -158,7 +158,7 @@
                                 <canvas width="152" height="152"></canvas>
                             </span>
                             <h4>Laravel<i class="fab fa-laravel p-2"></i></h4>
-                            <p>Php Framework (MVC), it makes  developer's life much easier </p>
+                            <p>PHP Framework (MVC), it makes  developer's life much easier </p>
                         </div>
                         <div class="skill">
                             <span class="chart" data-percent="85">
@@ -166,7 +166,7 @@
                                 <canvas width="152" height="152"></canvas>
                             </span>
                             <h4>Vue<i class="fab fa-vuejs p-2"></i></h4>
-                            <p>JavaScript Framework which is very power full </p>
+                            <p>JavaScript framework which is very power full </p>
                         </div>
                         <div class="skill">
                             <span class="chart" data-percent="85">
@@ -174,7 +174,7 @@
                                 <canvas width="152" height="152"></canvas>
                             </span>
                             <h4>Sass<i class="fab fa-sass p-2"></i></h4>
-                            <p>Sass is a CSS preprocessor, which adds special features such as variables, nested rules and mixins into regular CSS.</p>
+                            <p>SASS is a CSS preprocessor, which adds special features such as variables, nested rules and mixins into regular CSS.</p>
                         </div>
                         <div class="skill">
                             <span class="chart" data-percent="90">
@@ -345,19 +345,19 @@
                         </p>
                     </article>
                     <article class="col-sm-6 col-lg-3"data-aos="fade-up" data-aos-delay="600">
-                        <a href="images/p4.png" target="_blank">
-                            <img src="images/p4.png" alt="project" >
+                        <a href="images/pok.png" target="_blank">
+                            <img src="images/pok.png" alt="project"  width="100" height="140">
                         </a>
                         <br>
-                        <a href="http://tweeter-1.herokuapp.com/" class="btn-light" target="_blank">
+                        <a href="https://pokemone-staging.herokuapp.com" class="btn-light" target="_blank">
                             <i class="fas fa-eye"></i>Live Demo
                         </a>
-                        <a href="https://github.com/A7mmed1/Tweeter" class="btn-dark" target="_blank">
+                        <a href="https://github.com/A7mmed1/pokemone" class="btn-dark" target="_blank">
                             <i class="fab fa-github"></i>Github
 
                         </a>
                         <p>
-                            <span class="fo"> Social Media website 2</span>
+                            <span class="fo"> Pokemone Game</span>
                         </p>
 
                     </article>
@@ -433,7 +433,7 @@
                 <div class="row">
                     <div class="col-md-6">
                         <div class="google-maps" data-aos="fade-left" data-aos-delay="600">
-                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6737.9339884078945!2d-114.07968876401524!3d51.02839377310471!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x53717017084d037d%3A0xce154964ef7046f7!2s304%2026%20Ave%20SW%2C%20Calgary%2C%20AB%20T2S%200M5!5e0!3m2!1sen!2sca!4v1569547944678!5m2!1sen!2sca" width="400" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d40131.621063234285!2d-114.10308685205746!3d51.04890881785538!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x53716ffb86200597%3A0x10c42af1e7df241e!2sDowntown%2C%20Calgary%2C%20AB!5e0!3m2!1sen!2sca!4v1570563445705!5m2!1sen!2sca" width="400" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
                         </div>
                     </div>
                     <div class="col-md-6" data-aos="flip-left"data-aos-delay="600">
@@ -529,7 +529,7 @@
             <div class="container">
                 <div class="d-flex flex-wrap justify-content-center">
                     <div class="mr-sm-auto p-2">
-                         Ahmmed Moammed &copy; All rights reserved
+                        <img src="images/lo1.png" alt="" width="50" height="40"> Ahmmed Moammed 2019 &copy; All rights reserved
                         <div class="cridet p-2">
                             <div class="up text-center" id="up">
                                 <a href="#about"><i class="fas fa-chevron-up"> </i></a>
