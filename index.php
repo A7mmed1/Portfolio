@@ -3,6 +3,7 @@
 <html lang="en" dir="ltr">
     <head>
         <meta charset="utf-8">
+        <meta name="google-site-verification" content="SWhQQpb5pcXJiI6UF9QLzwd1TNlvkEy_ecjo9_WCcZ0" />
         <meta name="description" content="looking for a Web Developer to build your website ? call me to get a free quote, Ahmmed Mohammed a Full Stack Web Developer in Calgary 2019">
         <meta name="keywords" content="HTML,CSS,JavaScript,PHP and much more , Check My Portfolio ">
         <meta name="author" content="Ahmmed">
@@ -86,7 +87,7 @@
 
                         </div>
                         <div class="col-md-7 text p-4">
-                            <h4 class="call">Summary </h4>
+                            <h4 class="">Summary </h4>
                             <p class="write"></p>
                             <button class="btn btn-light mt-2 " type="button" name="button"><i class="fas fa-file-pdf" style="color: #343a40d6"></i><a href="images/Ahmmed.pdf"             target="_blank" style="text-decoration:none; color: #343a40d6">View Resume </a> </button>
                         </div>
@@ -101,7 +102,7 @@
                 <div class="row">
                     <div class="col-md-12 text-center p-4">
                         <h1><i class="fa fa-cog"></i>Technical Skills</h1>
-                        <p>A representation of my proficiency in each skill <span class="drag rounded-circle">(Drag to Scroll)</span> <i class="fas fa-chevron-circle-right"></i></p>
+                        <p>A Representation Of My Proficiency in Each Skill <span class="drag rounded-circle">(Drag To Scroll)</span> <i class="fas fa-chevron-circle-right"></i></p>
 
                     <div class="owl-carousel owl-theme">
                         <div class="skill">
@@ -110,7 +111,7 @@
                                 <canvas width="152" height="152"></canvas>
                             </span>
                             <h4>PHP<i class="fab fa-php p-2"></i></h4>
-                            <p> It is used to manage dynamic content, databases, session tracking. </p>
+                            <p> It is Used to Manage Dynamic Content, Databases, Session Tracking. </p>
                         </div>
                         <div class="skill">
                             <span class="chart" data-percent="70">
@@ -118,7 +119,7 @@
                                 <canvas width="152" height="152"></canvas>
                             </span>
                             <h4>AWS<i class="fab fa-aws p-2"></i></h4>
-                            <p> Hands on Amazon Web services. </p>
+                            <p> Hands on Amazon Web Services. </p>
                         </div>
                         <div class="skill">
                             <span class="chart" data-percent="100">
@@ -126,7 +127,7 @@
                                 <canvas width="152" height="152"></canvas>
                             </span>
                             <h4>HTML<i class="fab fa-html5 p-2"></i></h4>
-                            <p>Create website layout/user interface </p>
+                            <p>Create Website Layout/User Interface </p>
                         </div>
                         <div class="skill">
                             <span class="chart" data-percent="82">
@@ -134,7 +135,7 @@
                                 <canvas width="152" height="152"></canvas>
                             </span>
                             <h4>JavaScript<i class="fab fa-js-square p-2"></i></h4>
-                            <p>It makes websites more interactive and functional. </p>
+                            <p>It Makes Websites More Interactive And Functional. </p>
                         </div>
                         <div class="skill">
                             <span class="chart" data-percent="100">
@@ -142,7 +143,7 @@
                                 <canvas width="152" height="152"></canvas>
                             </span>
                             <h4>CSS<i class="fab fa-css3-alt p-2"></i></h4>
-                            <p> It gives the beuty and magic for the layout </p>
+                            <p> It Gives The Beuty And Magic For The Layout </p>
                         </div>
                         <div class="skill">
                             <span class="chart" data-percent="95">
@@ -150,7 +151,7 @@
                                 <canvas width="152" height="152"></canvas>
                             </span>
                             <h4>MySql<i class="fas fa-database p-2"></i></h4>
-                            <p>Integrate data from various back-end services and databases </p>
+                            <p>Integrate Data From Various Back-end Services And Databases </p>
                         </div>
                         <div class="skill">
                             <span class="chart" data-percent="80">
@@ -158,7 +159,7 @@
                                 <canvas width="152" height="152"></canvas>
                             </span>
                             <h4>Laravel<i class="fab fa-laravel p-2"></i></h4>
-                            <p>PHP Framework (MVC), it makes  developer's life much easier </p>
+                            <p>PHP Framework (MVC), It Makes  Developer's Life Much Easier </p>
                         </div>
                         <div class="skill">
                             <span class="chart" data-percent="85">
@@ -166,7 +167,7 @@
                                 <canvas width="152" height="152"></canvas>
                             </span>
                             <h4>Vue<i class="fab fa-vuejs p-2"></i></h4>
-                            <p>JavaScript framework which is very power full </p>
+                            <p>JavaScript Framework Which is Very Powerfull </p>
                         </div>
                         <div class="skill">
                             <span class="chart" data-percent="85">
@@ -174,7 +175,7 @@
                                 <canvas width="152" height="152"></canvas>
                             </span>
                             <h4>Sass<i class="fab fa-sass p-2"></i></h4>
-                            <p>SASS is a CSS preprocessor, which adds special features such as variables, nested rules and mixins into regular CSS.</p>
+                            <p>SASS is a CSS Preprocessor, Which  is Add Special Features Such as Variables, Nested Rules and Mixins Into Regular CSS.</p>
                         </div>
                         <div class="skill">
                             <span class="chart" data-percent="90">
@@ -182,7 +183,7 @@
                                 <canvas width="152" height="152"></canvas>
                             </span>
                             <h4>GitHub<i class="fab fa-github p-2"></i></h4>
-                            <p>Github is a code hosting platform for version control , which made the collaboration easy and fast , </p>
+                            <p>Github is a Code Hosting Platform For Version Control , Which made The Collaboration Easy and Fast , </p>
                         </div>
                     </div>
                 </div>
@@ -308,46 +309,119 @@
         </div>
         <!-- End parallax -->
         <!-- Start Projects section -->
-        <section class="project text-center  section-padding offset" id="project">
+        <!-- <section class="service_section bg-grey bd-bottom padding">
             <div class="container">
-                    <h5 class="infoTitle">Check out some of my Projects</h5>
+               <div class="section_heading align-center mb-40">
+                   <h2>Some of My Projects</h2>
+                   <p></p>
+               </div>
+               <div class="row">
+
+
+                <div class="col-md-3 col-xs-3 ">
+                   <div class="service_item">
+                        <img src="images/p1.png" alt="Services">
+                        <div class="post_info">
+                            <h3> Men</h3>
+                            <P>Lorem Ipsum is simply dummy<br> and typesetting industry.</P>
+                        </div>
+                   </div>
+                </div>
+                <div class="col-sm-3 col-xs-3 xs-padding">
+                   <div class="service_item">
+                        <img src="img/service2.jpg" alt="Services">
+                        <div class="post_info">
+                            <h3>Women</h3>
+                            <P>Lorem Ipsum is simply dummy<br> and typesetting industry.</P>
+                        </div>
+                   </div>
+                </div>
+                <div class="col-sm-3 col-xs-3 xs-padding">
+                   <div class="service_item">
+                        <img src="img/service-3.jpg" alt="Services">
+                        <div class="post_info">
+                            <h3>Haircut Styles</h3>
+                            <P>Lorem Ipsum is simply dummy<br> and typesetting industry.</P>
+                        </div>
+                   </div>
+                </div>
+                <div class="col-sm-3 col-xs-3 xs-padding">
+                   <div class="service_item">
+                        <img src="img/service-3.jpg" alt="Services">
+                        <div class="post_info">
+                            <h3>Haircut Styles</h3>
+                            <P>Lorem Ipsum is simply dummy<br> and typesetting industry.</P>
+                        </div>
+                   </div>
+                </div>
+            </div>
+            <br>
+             </div>
+        </section> -->
+        <section class="project text-center  section-padding offset ervice_section bg-grey bd-bottom padding" id="project">
+            <div class="container">
+                    <h5 class="infoTitle section_heading" >Check Out Some Of My Projects</h5>
                     <br>
                 <div class="row">
                     <article class="col-sm-6 col-md-3"data-aos="fade-left" data-aos-delay="600">
-                        <a href="images/p1.png" target="_blank">
-                            <img src="images/p1.png" alt="project" target="_blank">
-                        </a>
+                        <div class="service_item">
+                            <a href="images/Pro1.jpg" target="_blank">
+                                <img src="images/Pro1.jpg" alt="project" >
+                            </a>
+                             <div class="post_info">
+                                 <h3> </h3>
+                                 <P></P>
+                             </div>
+                        </div>
                         <br>
-                        <a href="https://ocotokspizza.herokuapp.com/" class="btn-light" target="_blank">
-                            <i class="fas fa-eye"></i>Live Demo
+                        <a href="https://pokemone-staging.herokuapp.com" class="btn-light" target="_blank">
+                            <i class="fas fa-eye"></i> Live Demo
                         </a>
-                        <a href="https://github.com/A7mmed1/okotoksPizza" class="btn-dark" target="_blank">
-                            <i class="fab fa-github"></i>Github
+                        <a href="https://github.com/A7mmed1/pokemone" class="btn-dark" target="_blank">
+                            <i class="fab fa-github"></i> Github
+
                         </a>
                         <p>
-                            <span class="fo"> Pizza Shop website</span>
-
+                            <span class="fo"> Pokemone Game</span>
                         </p>
+
                     </article>
                     <article class="col-sm-6 col-lg-3 "data-aos="fade-up" data-aos-delay="600">
-                        <a href="images/p3.png" target="_blank">
-                            <img src="images/p3.png" alt="project" >
-                        </a>
+                        <div class="service_item">
+                            <a href="images/Pro2.jpg" target="_blank">
+                                <img src="images/Pro2.jpg" alt="project" >
+                            </a>
+                             <div class="post_info">
+                                 <h3></h3>
+                                 <P></P>
+                             </div>
+                        </div>
+
                         <br>
-                        <a href="http://tweeter-1.herokuapp.com/" class="btn-light" target="_blank">
-                            <i class="fas fa-eye"></i>Live Demo
+                        <a href="https://ocotokspizza.herokuapp.com/" class="btn-light" target="_blank">
+                            <i class="fas fa-eye"></i> Live Demo
                         </a>
-                        <a href="https://github.com/A7mmed1/Tweeter" class="btn-dark" target="_blank">
-                            <i class="fab fa-github"></i>Github
+                        <a href="https://github.com/A7mmed1/okotoksPizza" class="btn-dark" target="_blank">
+                            <i class="fab fa-github"></i> Github
                         </a>
                         <p>
-                            <span class="fo"> Social Media website</span>
+                            <span class="fo"> Pizza Shop Website</span>
+
                         </p>
+
                     </article>
-                    <article class="col-sm-6 col-lg-3"data-aos="fade-up" data-aos-delay="600">
-                        <a href="images/pok.png" target="_blank">
-                            <img src="images/pok.png" alt="project"  width="100" height="140">
-                        </a>
+
+                    <!-- <article class="col-sm-6 col-lg-3"data-aos="fade-up" data-aos-delay="600">
+                        <div class="service_item">
+                            <a href="images/Pro3.jpg" target="_blank">
+                                <img src="images/Pro3.jpg" alt="project"  width="100" height="140">
+                            </a>
+                               <div class="post_info">
+                                 <h3></h3>
+                                 <P></P>
+                             </div>
+                        </div>
+
                         <br>
                         <a href="https://pokemone-staging.herokuapp.com" class="btn-light" target="_blank">
                             <i class="fas fa-eye"></i>Live Demo
@@ -360,21 +434,131 @@
                             <span class="fo"> Pokemone Game</span>
                         </p>
 
-                    </article>
+                    </article> -->
                     <article class="col-sm-6 col-lg-3" data-aos="fade-right" data-aos-delay="600">
-                        <a href="images/p7.png" target="_blank">
-                            <img src="images/p7.png" alt="project" >
-                        </a>
-
+                        <div class="service_item">
+                            <a href="images/Pro3.jpg" target="_blank">
+                                <img src="images/Pro3.jpg" alt="project" >
+                            </a>
+                             <div class="post_info">
+                                 <h3></h3>
+                                 <P></P>
+                             </div>
+                        </div>
                         <br>
                         <a href="http://tweeter-1.herokuapp.com/" class="btn-light" target="_blank">
-                            <i class="fas fa-eye"></i>Live Demo
+                            <i class="fas fa-eye"></i> Live Demo
                         </a>
                         <a href="https://github.com/A7mmed1/Tweeter" class="btn-dark" target="_blank">
-                            <i class="fab fa-github"></i>Github
+                            <i class="fab fa-github"></i> Github
                         </a>
                         <p>
-                            <span class="fo"> Markiting Page for Social Media website</span>
+                            <span class="fo"> Social Media website</span>
+                        </p>
+                    </article>
+                    <article class="col-sm-6 col-lg-3" data-aos="fade-up" data-aos-delay="600">
+                        <div class="service_item">
+                            <a href="images/Pro4.png" target="_blank">
+                                <img src="images/Pro4.png" alt="project" >
+                            </a>
+                             <div class="post_info">
+                                 <h3></h3>
+                                 <P></P>
+                             </div>
+                        </div>
+                        <br>
+                        <a href="https://www.ghassanhairandbeauty.com" class="btn-light" target="_blank">
+                            <i class="fas fa-eye"></i> Live Demo
+                        </a>
+                        <a href="https://github.com/A7mmed1/Salon" class="btn-dark" target="_blank">
+                            <i class="fab fa-github"></i> Github
+                        </a>
+                        <p>
+                            <span class="fo"> Real Project (ghassan hair and beauty)</span>
+                        </p>
+                    </article>
+                    <article class="col-sm-6 col-lg-3" data-aos="fade-left" data-aos-delay="600">
+                        <div class="service_item">
+                            <a href="images/f1.png" target="_blank">
+                                <img src="images/f1.png" alt="project" >
+                            </a>
+                             <div class="post_info">
+                                 <h3></h3>
+                                 <P></P>
+                             </div>
+                        </div>
+                        <br>
+                        <a href="https://www.figma.com/proto/cv1qHMFVEApbvSZQE0PVtwBO/twieter?node-id=1%3A3&scaling=scale-down" class="btn-light" target="_blank">
+                            <i class="fas fa-eye"></i> Live Demo
+                        </a>
+                        <a href="https://www.figma.com/proto/cv1qHMFVEApbvSZQE0PVtwBO/twieter?node-id=1%3A3&scaling=scale-down" class="btn-dark" target="_blank">
+                            <i class="fab fa-figma"></i> Figma
+                        </a>
+                        <p>
+                            <span class="fo"> Wireframe For a Mobile Version Of Social Media Application </span>
+                        </p>
+                    </article>
+                    <article class="col-sm-6 col-lg-3" data-aos="fade-up" data-aos-delay="600">
+                        <div class="service_item">
+                            <a href="images/f2.png" target="_blank">
+                                <img src="images/f2.png" alt="project" >
+                            </a>
+                             <div class="post_info">
+                                 <h3></h3>
+                                 <P></P>
+                             </div>
+                        </div>
+                        <br>
+                        <a href="https://www.figma.com/proto/dRLcfTtWSCwWaQF4xgY99JWC/assigment-pizza?node-id=8%3A1&scaling=scale-down" class="btn-light" target="_blank">
+                            <i class="fas fa-eye"></i> Live Demo
+                        </a>
+                        <a href="https://www.figma.com/proto/dRLcfTtWSCwWaQF4xgY99JWC/assigment-pizza?node-id=8%3A1&scaling=scale-down" class="btn-dark" target="_blank">
+                            <i class="fab fa-figma"></i> Figma
+                        </a>
+                        <p>
+                            <span class="fo"> Wireframe For a Pizza Shop Website</span>
+                        </p>
+                    </article>
+                    <article class="col-sm-6 col-lg-3" data-aos="fade-right" data-aos-delay="600">
+                        <div class="service_item">
+                            <a href="images/f3.png" target="_blank">
+                                <img src="images/f3.png" alt="project" >
+                            </a>
+                             <div class="post_info">
+                                 <h3></h3>
+                                 <P></P>
+                             </div>
+                        </div>
+                        <br>
+                        <a href="https://www.figma.com/proto/QVPciNgGRZ7pUrfhdzJoRp/Portfolio?scaling=scale-down&node-id=9%3A2" class="btn-light" target="_blank">
+                            <i class="fas fa-eye"></i> Live Demo
+                        </a>
+                        <a href="https://www.figma.com/proto/QVPciNgGRZ7pUrfhdzJoRp/Portfolio?scaling=scale-down&node-id=9%3A2" class="btn-dark" target="_blank">
+                            <i class="fab fa-figma"></i> Figma
+                        </a>
+                        <p>
+                            <span class="fo"> The  First Prototype For a Personal Portfolio</span>
+                        </p>
+                    </article>
+                    <article class="col-sm-6 col-lg-3" data-aos="fade-up" data-aos-delay="600">
+                        <div class="service_item">
+                            <a href="images/f4.png" target="_blank">
+                                <img src="images/f4.png" alt="project" >
+                            </a>
+                             <div class="post_info">
+                                 <h3></h3>
+                                 <P></P>
+                             </div>
+                        </div>
+                        <br>
+                        <a href="https://www.figma.com/proto/NZ4sQ4pkl1rgPCOH6Ypxviw2/google?scaling=min-zoom&node-id=2%3A02" class="btn-light" target="_blank">
+                            <i class="fas fa-eye"></i> Live Demo
+                        </a>
+                        <a href="https://www.figma.com/proto/NZ4sQ4pkl1rgPCOH6Ypxviw2/google?scaling=min-zoom&node-id=2%3A0" class="btn-dark" target="_blank">
+                            <i class="fab fa-figma"></i> Figma
+                        </a>
+                        <p>
+                            <span class="fo">  My First Prototype in Figma </span>
                         </p>
                     </article>
                 </div>
@@ -383,26 +567,30 @@
         <!-- End Projects section -->
         <!-- Start Resume Section -->
         <div class="parallax offset" id="resume">
+            <div class="color">
             <div class="container">
                 <div class="text-left ml-3 sen">
                     <div class="container">
+
+
+
                         <h3 class="infoTitle"> Resume</h3>
                         <br>
                     <div class="row">
                       <article class="col-md-12">
-                          <article class="help"data-aos="fade-right" data-aos-delay="600">
+                          <article class="help">
                                   <h2> Technologies</h2>
                               <div class="row">
                                   <div class="col-md-12">
-                                      <ul class="list-unstyled">
-                                        <li><i class="fa fa-cog"></i>Hands on experience in Web Application development using HTML5, CSS3, JavaScript, jQuery ,AJAX and JSON</li>
-                                        <li><i class="fa fa-cog"></i>Knowledge of third-party libraries like SASS, Angular and React Js is desirable</li>
-                                        <li><i class="fa fa-cog"></i>Advanced knowledge of server-side programming languages like Python, Ruby, . Net etc.</li>
-                                        <li><i class="fa fa-cog"></i>PHP experience with MVC (Laravel) frameworks and popular content management systems(Wordpress)</li>
-                                        <li><i class="fa fa-cog"></i>Excellent knowledge and experience in Oracle Database ,My SQL ,PL/SQL,MS SQL server</li>
-                                        <li><i class="fa fa-cog"></i>Experience using Git and GitHub for source control</li>
-                                        <li><i class="fa fa-cog"></i>Design and deploy  RESTful API specification with testing case</li>
-                                        <li><i class="fa fa-cog"></i>Strong UX & UI design skills, as well as demonstrating the ability to map out and simply user workflows</li>
+                                      <ul class="list-unstyled text">
+                                        <li class="text" data-aos="fade-right" data-aos-delay="600"><i class="fa fa-cog"></i>Hands on experience in Web Application development using HTML5, CSS3, JavaScript, jQuery ,AJAX and JSON</li>
+                                        <li data-aos="fade-left" data-aos-delay="600"><i class="fa fa-cog" ></i>Knowledge of third-party libraries like SASS, Angular and React Js is desirable</li>
+                                        <li data-aos="fade-up" data-aos-delay="600"><i class="fa fa-cog" ></i>Advanced knowledge of server-side programming languages like Python, Ruby, . Net etc.</li>
+                                        <li data-aos="fade-down" data-aos-delay="600"><i class="fa fa-cog" ></i>PHP experience with MVC (Laravel) frameworks and popular content management systems(Wordpress)</li>
+                                        <li data-aos="fade-right" data-aos-delay="600"><i class="fa fa-cog" ></i>Excellent knowledge and experience in Oracle Database ,My SQL ,PL/SQL,MS SQL server</li>
+                                        <li data-aos="fade-left" data-aos-delay="600"><i class="fa fa-cog" ></i>Experience using Git and GitHub for source control</li>
+                                        <li data-aos="fade-down" data-aos-delay="600"><i class="fa fa-cog" ></i>Design and deploy  RESTful API specification with testing case</li>
+                                        <li data-aos="fade-up" data-aos-delay="600"><i class="fa fa-cog" ></i>Strong UX & UI design skills, as well as demonstrating the ability to map out and simply user workflows</li>
                                       </ul>
                                   </div>
                                </div>
@@ -420,6 +608,8 @@
                       </div>
                     </div>
                 </div>
+
+            </div>
             </div>
         </div>
         <!-- End Resume -->
@@ -492,7 +682,7 @@
                     </div>
                 </div>
             </div>
-            <div class="container">
+            <!-- <div class="container">
                     <h2 class="white">Get in Touch</h3>
                     <br>
                 <form class="contactForm"  id="contactform" role="form" method="post" action="/php/contact-form.php">
@@ -520,6 +710,37 @@
                         <i class="far fa-paper-plane send"></i>
                     </div>
                 </form>
+            </div> -->
+
+            <div class="col-sm-12 xs-padding align-center">
+                <div class="container">
+
+
+                 <div class="contact_form">
+                     <h2>Send Me Message</h2>
+                     <p>Please don’t hesitate to chat with me just drop a line.</p>
+                     <form action="contact.php" method="post" id="ajax_form" class="form-horizontal">
+                         <div class="form-group">
+                             <div class="col-sm-12">
+                                 <input type="text" id="name" name="name" class="form-control m-4" placeholder="Name" required>
+                             </div>
+                             <div class="col-sm-12">
+                                 <input type="email" id="email" name="email" class="form-control m-4" placeholder="Email" required>
+                             </div>
+                         </div>
+                         <div class="form-group">
+                             <div class="col-xs-12">
+                                 <textarea id="message" name="message" cols="30" rows="5" class="form-control m-4" placeholder="Message" required></textarea>
+                             </div>
+                         </div>
+                         <div class="form-group">
+                             <div class="col-xs-12">
+                                 <button id="submit" class="default_btn btn-danger p-2" type="submit">Send Message</button>
+                             </div>
+                         </div>
+                         <div id="form-messages" class="alert" role="alert"></div>
+                     </form>
+                 </div><!-- /.contact_form -->
             </div>
         </div>
         </section>
@@ -529,7 +750,7 @@
             <div class="container">
                 <div class="d-flex flex-wrap justify-content-center">
                     <div class="mr-sm-auto p-2">
-                        <img src="images/lo1.png" alt="" width="50" height="40"> Ahmmed Moammed 2019 &copy; All rights reserved
+                        <img src="images/lo1.png" alt="" width="50" height="40"> Ahmmed Mohammed 2019 &copy; All rights reserved
                         <div class="cridet p-2">
                             <div class="up text-center" id="up">
                                 <a href="#about"><i class="fas fa-chevron-up"> </i></a>
@@ -577,6 +798,7 @@
               <script>
                 AOS.init();
               </script>
+              <script src="js/contact.js"></script>
 
              <script type="text/javascript" src="js/main.js"></script>
 
